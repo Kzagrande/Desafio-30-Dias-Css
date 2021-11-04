@@ -1,4 +1,4 @@
-🕹🕹 30diasDeCSS 🕹🕹
+🕹🕹 3🕹🕹 30diasDeCSS 🕹🕹
 
 
 
@@ -20,3 +20,18 @@ O projeto deve ser concluído até 23:59
 
 
  Boa sorte pra vocês e pra mim 😄😄
+ 
+ 
+ 
+⚠⚠ COMEÇOUUU !! ⚠⚠
+
+ 
+※ [Dia1 - DESAFIO 1 Glowing Text Animation](#id01)
+
+##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
+
+
+
+
+
