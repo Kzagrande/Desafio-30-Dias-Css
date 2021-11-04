@@ -1,4 +1,4 @@
-🕹🕹 3🕹🕹 30diasDeCSS 🕹🕹
+🕹🕹 30diasDeCSS 🕹🕹
 
 
 
@@ -30,6 +30,14 @@ O projeto deve ser concluído até 23:59
 
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio%201)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6862171684653326337-Meyn)
+
+
+
 
 
 
