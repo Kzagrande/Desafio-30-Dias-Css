@@ -8,27 +8,35 @@
 
 body {
     display: flex;
+    /* display flex can be: father item or dagther item. This is the best form to organize space that items */
     justify-content: center;
+    /* this align container in center */
     align-items: center;
+    /* align intens in center  */
     min-height: 100vh;
+    /* height page min is 100% to the page */
     background: #111;
 }
 
 h2 {
     display: flex;
+    /* All letters has a display flex into container */
     color: transparent;
     font-size: 15vh;
 }
 
 h2 span {
-    animation: animate 6s linear infinite;
+    animation: animate 20s linear infinite;
     animation-delay: calc(0.1s * var(--i));
+    /* I think that var is about the "--" and just now was declarated  */
 }
 
 @keyframes animate {
+    /* the KeyFrames can separete and decide what and when the animation is happen */
     0% {
         color: #fff;
         filter: blur(2px) hue-rotate(0deg);
+        /* blue is item opacity and hue-hotate is elemente color rotate */
         text-shadow: 0 0 10px #00b3ff, 0 0 20px #00b3ff, 0 0 40px #00b3ff, 0 0 80px #00b3ff, 0 0 120px #00b3ff, 0 0 200px #00b3ff, 0 0 300px #00b3ff, 0 0 400px #00b3ff;
     }
     30%,

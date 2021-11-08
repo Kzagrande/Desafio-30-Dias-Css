@@ -27,6 +27,8 @@ O projeto deve ser concluído até 23:59
 
  
 ※ [Dia1 - DESAFIO 1 Glowing Text Animation](#id01)
+※ [Dia2 - DESAFIO 1 Glowing Text Animation](#id02)
+
 
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
@@ -36,9 +38,32 @@ O projeto deve ser concluído até 23:59
 
 [PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6862171684653326337-Meyn)
 
+##### O que eu aprendi ?
+
+
+* *Criar as camadas utilizando a tag `<span>`*
+* Introdução alguns conceitos de funções no CSS como: Hue-rotate, blur.
+* Introdução ao conceite de animação com KeyFrames
+* Como utilizar o display Flex
 
 
 
+##  Desafio dia 02 - Glowing Text Animation <a name="id02"></a>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140792872-8ab2b14e-20c8-41d2-b98d-b5103ead436b.gif)
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_2)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6863542431023980544-R-QS)
+
+##### O que eu aprendi ?
+
+
+* Utilizar bibliotecas externas para animar imagens 
+* Utilizar a função background: linear-gradient para fazer uma transição entre cores
+* Para que serve e como utilizar a função Z-index do css
+* Como transformar imagens jpg em png para utilizá-las no site sem comprometer o fundo
+* Como fazer uma animação utilizando scrollTrigger
 
 
 
