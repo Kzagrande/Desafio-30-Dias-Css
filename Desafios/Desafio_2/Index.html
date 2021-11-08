@@ -3,8 +3,9 @@
 <html>
 
 <head>
-    <title> Halooween | Parallax Effects </title>
+    <title> Halloween | Parallax Effects </title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="C:\Users\casag\Desktop\30_Dias_Css\Desafios\Desafio_2\image\halloween.ico" type="image-x/icon">
 
 </head>
 
@@ -37,10 +38,11 @@
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js"></script>
+    <!-- This is a library I use to animate the images  -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/ScrollTrigger.min.js"></script>
 
     <script>
-        gsap.to("#witch", {
+        gsap.to("#witch", { /* Here I write which animation I want to use, the time to do it and at what time  */
             scrollTrigger: {
                 scrub: 0.5,
             },
