@@ -27,6 +27,7 @@ O projeto deve ser concluído até 23:59
 
  
 ※ [Dia1 - DESAFIO 1 Glowing Text Animation](#id01)
+
 ※ [Dia2 - DESAFIO 1 Glowing Text Animation](#id02)
 
 
