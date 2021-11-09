@@ -118,6 +118,7 @@ body {
 
 .btn {
     display: block !important;
+    /* to braek the format of the import font */
     width: 100px;
     height: 100px;
     margin: 40px auto;

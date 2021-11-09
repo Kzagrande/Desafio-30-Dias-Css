@@ -30,6 +30,8 @@ O projeto deve ser concluído até 23:59
 
 ※ [Dia2 - DESAFIO 1 Glowing Text Animation](#id02)
 
+※ [Dia2 - DESAFIO 1 Glowing Text Animation](#id03)
+
 
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
@@ -66,6 +68,26 @@ O projeto deve ser concluído até 23:59
 * Como transformar imagens jpg em png para utilizá-las no site sem comprometer o fundo
 * Como fazer uma animação utilizando scrollTrigger
 
+
+
+##  Desafio dia 03 - Glowing Text Animation <a name="id03"></a>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140998762-3f5c1c10-2f5f-4db6-85f4-2dd3845f3618.gif)
+
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_3)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6863930883569696768-It3v)
+
+##### O que eu aprendi ?
+
+
+* Utilizar bibliotecas de fontes
+* Cnceitos básicos de cálculos com Css
+* Amações com pseudo-classes
+* Como fazer uma quebra de hierarquia no Css
+* Coletar exatamente as cores do fundo da página para harmonizar com o que será inserido
+* Utilizar uma função em JavaSCript para fazer uma interação com o usuário e o botão de enviar
 
 
 
