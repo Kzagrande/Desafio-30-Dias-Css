@@ -71,7 +71,8 @@ O projeto deve ser concluído até 23:59
 
 
 ##  Desafio dia 03 - Glowing Text Animation <a name="id03"></a>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140998762-3f5c1c10-2f5f-4db6-85f4-2dd3845f3618.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/141014078-c3bf175d-b0e1-4005-bb42-b04bd8bc50a9.gif)
+
 
 
 [Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_3)
