@@ -32,16 +32,16 @@
         document.onmousemove = function() {
 
 
-            var x = event.clientX * 100 / window.innerWidth + "%";
-            var y = event.clientY * 100 / window.innerWidth + "%";
+            var x = event.clientX * 100 / window.innerWidth + "%"; // event.cientX == mouse horizontal position and event.cientY == mouse vertical position and after add this value in %
+            var y = event.clientY * 100 / window.innerHeight + "%";
 
 
 
 
-            for (var i = 0; i < 2; i++) {
+            for (var i = 0; i < 2; i++) { // here is a loop for balls follow the value of var x and y
                 balls[i].style.left = x;
                 balls[i].style.top = y;
-                balls[i].style.transform = "translate(-" + x + ",-" + y + ")";
+                balls[i].style.transform = "translate(-" + x + ",-" + y + ")"; // here is to balls dont left to the eyes
             }
 
         }

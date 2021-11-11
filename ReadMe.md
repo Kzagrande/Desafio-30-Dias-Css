@@ -30,7 +30,9 @@ O projeto deve ser concluído até 23:59
 
 ※ [Dia2 - DESAFIO 1 Glowing Text Animation](#id02)
 
-※ [Dia2 - DESAFIO 1 Glowing Text Animation](#id03)
+※ [Dia3 - DESAFIO 1 Glowing Text Animation](#id03)
+
+※ [Dia4 - DESAFIO 1 Glowing Text Animation](#id04)
 
 
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
@@ -89,6 +91,27 @@ O projeto deve ser concluído até 23:59
 * Como fazer uma quebra de hierarquia no Css
 * Coletar exatamente as cores do fundo da página para harmonizar com o que será inserido
 * Utilizar uma função em JavaSCript para fazer uma interação com o usuário e o botão de enviar
+
+
+##  Desafio dia 04 - I see you  <a name="id03"></a>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/141367384-d158f7b7-d60b-42b4-b104-11f4d6cbf616.gif)
+
+
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_4)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6864672023562530816-I4S0)
+
+##### O que eu aprendi ?
+
+
+* Introdução a função transform:translate 
+* Revisão dos conceitos de position absolute e relative
+* Revisão do conceito de overflow:hidden
+* Animar objetos por meio do javaScript para que respondam de acordo coma posição do mouse 
+
+
 
 
 
