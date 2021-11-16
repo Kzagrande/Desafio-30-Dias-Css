@@ -28,11 +28,13 @@ O projeto deve ser concluído até 23:59
  
 ※ [Dia1 - DESAFIO 1 Glowing Text Animation](#id01)
 
-※ [Dia2 - DESAFIO 1 Glowing Text Animation](#id02)
+※ [Dia2 - DESAFIO 2 Halloween | Parallax Effects](#id02)
 
-※ [Dia3 - DESAFIO 1 Glowing Text Animation](#id03)
+※ [Dia3 - DESAFIO 3 Login Form](#id03)
 
-※ [Dia4 - DESAFIO 1 Glowing Text Animation](#id04)
+※ [Dia4 - DESAFIO 4 I See you](#id04)
+
+※ [Dia5 - Glassmorphism Cards](#id05)
 
 
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
@@ -53,7 +55,7 @@ O projeto deve ser concluído até 23:59
 
 
 
-##  Desafio dia 02 - Glowing Text Animation <a name="id02"></a>
+##  Desafio dia 02 - Halloween | Parallax Effects <a name="id02"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140792872-8ab2b14e-20c8-41d2-b98d-b5103ead436b.gif)
 
 [Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_2)
@@ -93,7 +95,7 @@ O projeto deve ser concluído até 23:59
 * Utilizar uma função em JavaSCript para fazer uma interação com o usuário e o botão de enviar
 
 
-##  Desafio dia 04 - I see you  <a name="id03"></a>
+##  Desafio dia 04 - I see you  <a name="id04"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/141367384-d158f7b7-d60b-42b4-b104-11f4d6cbf616.gif)
 
 
@@ -114,4 +116,22 @@ O projeto deve ser concluído até 23:59
 
 
 
+##  Desafio dia 05 - Glassmorphism Carrs  <a name="id05"></a>
+![2021-11-16-17-18-12](https://user-images.githubusercontent.com/91704291/142066442-11475c47-de9a-4732-aa17-f63416ff8c8f.gif)
+
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_4)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6866488594094190592-6riW)
+
+##### O que eu aprendi ?
+
+
+* Introdução FlexBOX
+* Aplicação do Box-Shadow no Css
+* Introdução ao conceito de cálculo com variáveis no Css
+* Animar objetos com a pseudo-classe hover 
+* Projetar uma página semântica e responsiva
+* Simular o efeito de vidro embaçado com CSS
 
