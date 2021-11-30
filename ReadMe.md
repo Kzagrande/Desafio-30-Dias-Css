@@ -36,6 +36,7 @@ O projeto deve ser concluído até 23:59
 
 ※ [Dia5 - Glassmorphism Cards](#id05)
 
+※ [Dia5 - Burgreen](#id06)
 
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
@@ -120,7 +121,7 @@ O projeto deve ser concluído até 23:59
 ![2021-11-16-17-18-12](https://user-images.githubusercontent.com/91704291/142066442-11475c47-de9a-4732-aa17-f63416ff8c8f.gif)
 
 
-[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_4)
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_5)
 
 
 [PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6866488594094190592-6riW)
@@ -134,4 +135,24 @@ O projeto deve ser concluído até 23:59
 * Animar objetos com a pseudo-classe hover 
 * Projetar uma página semântica e responsiva
 * Simular o efeito de vidro embaçado com CSS
+
+
+##  Desafio dia 06 - Burgreen <a name="id06"></a>
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/91704291/144115257-9a5507b9-90c2-4f37-94b5-8652d3085393.gif)
+
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_6)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6871531832798711808-RUSY)
+
+##### O que eu aprendi ?
+
+
+* Aprofundamento em flexbox
+* Aprofundamento em display e position
+* Display grid
+* Animar objetos com a pseudo-classe hover 
+* Aprofundamento em pseudo-classes
+* Layout responsivo
 
