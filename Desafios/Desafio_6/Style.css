@@ -1,0 +1,476 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Rancho', cursive;
+    background-color: rgb(4, 4, 17);
+    overflow-x: hidden;
+}
+
+.header {
+    height: 90vh;
+    position: relative;
+}
+
+.navbar {
+    height: 110px;
+    width: 100%;
+    background-color: #224004;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+    z-index: 10;
+    position: fixed;
+    border-bottom: solid 3px goldenrod;
+}
+
+.navbar-box {
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+}
+
+.heading-tertiary {
+    font-size: 3.5rem;
+    color: #ffffff;
+    letter-spacing: 1.5px;
+}
+
+.navbar-list {
+    list-style: none;
+    font-size: 2.5rem;
+}
+
+.navbar-item {
+    display: inline-block;
+}
+
+.navbar-link:visited,
+.navbar-link:link {
+    text-decoration: none;
+    color: white;
+    padding: 2rem;
+    transition: all .2s ease;
+}
+
+.navbar-link:hover {
+    background-color: #ffbc00;
+    color: honeydew;
+    border-radius: 200px;
+}
+
+.navbar-link-book:visited,
+.navbar-link-book:link {
+    text-decoration: none;
+    color: white;
+    padding: 1rem 3.5rem;
+    border: 1px solid goldenrod;
+    border-radius: 200px;
+    box-shadow: 0 0 1rem goldenrod;
+    text-shadow: 0 .3rem 1rem rgb(255, 255, 255, .5);
+    transition: all .2s ease;
+}
+
+.navbar-link-book:hover {
+    background-color: goldenrod;
+    color: white;
+}
+
+.toggle {
+    height: 5rem;
+    width: 50rem;
+    display: none;
+}
+
+.toggle div {
+    height: 4px;
+    width: 100%;
+    background-color: honeydew;
+    margin: 1rem;
+}
+
+.header-container {
+    width: 100%;
+    height: 100%;
+    background-position: cover;
+    color: honeydew;
+}
+
+.video {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0, 0, 0, .4);
+    bottom: 0;
+    right: 0
+}
+
+#video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+    z-index: -1;
+}
+
+.header-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    text-transform: uppercase;
+    color: honeydew;
+}
+
+.heading-primary {
+    font-size: 6.5rem;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+#restaurant {
+    color: #224004;
+    font-weight: 800;
+    font-size: 8rem;
+    opacity: 1;
+    text-shadow: 0 .4rem 0.2rem honeydew;
+}
+
+.lead {
+    font-size: 1.9rem;
+    font-weight: 600;
+    letter-spacing: 4px;
+}
+
+.book-now:visited,
+.book-now:link {
+    text-decoration: none;
+    display: inline-block;
+    color: honeydew;
+    font-size: 2rem;
+    padding: 2rem;
+    margin-top: 4rem;
+    border: 1px solid honeydew;
+    border-radius: 100px;
+    transition: all .3s ease;
+    box-shadow: 0 1rem 1rem rgba(240, 107, 55, .1);
+    text-shadow: 0 1rem 1rem rgba(0, 0, 0, .6);
+}
+
+.book-now:hover {
+    background-color: goldenrod;
+    border: 1px solid white;
+    box-shadow: 0 0 2rem goldenrod;
+}
+
+.menu {
+    width: 100%;
+    padding: 10rem 5rem;
+    background-image: linear-gradient(to right bottom, #224004, rgb(51, 92, 55));
+}
+
+.menu-heading {
+    font-size: 12rem;
+    text-align: center;
+    text-shadow: 0 0 1rem rgba(0, 0, 0, .9);
+    text-transform: uppercase;
+    color: white;
+    font-weight: 800;
+    margin-bottom: 10rem;
+}
+
+.menu-grid {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    justify-self: center;
+    grid-gap: 2rem;
+}
+
+.heading-secondary {
+    font-size: 7rem;
+    text-transform: uppercase;
+    color: honeydew;
+    text-align: center;
+}
+
+.menu-img {
+    height: 50%;
+    width: 100%;
+    background-size: cover;
+    background-position: top;
+    background-image: url(image/burger1.jpg);
+}
+
+.menu-container {
+    width: 100%;
+    height: 50rem;
+    background-color: honeydew;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 2rem rgba(0, 0, 0, .2);
+    transition: all .4s ease;
+}
+
+.menu-container:hover {
+    box-shadow: 0 0 5rem rgba(0, 0, 0, .4);
+    transform: scale(1.07);
+}
+
+.menu-p {
+    font-size: 2rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.menu-title {
+    font-size: 4rem;
+    text-align: center;
+}
+
+.price {
+    font-size: 5rem;
+    margin-top: 1rem;
+    text-align: center;
+    color: #224004;
+}
+
+
+/* CONTACT  */
+
+.contact {
+    padding: 15rem 10rem;
+    width: 100%;
+    background-image: url(/image/cortina.jpg);
+    background-size: cover;
+}
+
+.contact-content {
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0 0 3rem rgba(0, 0, 0, .9);
+}
+
+.left {
+    background-color: #224004;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px
+}
+
+.right {
+    background-color: honeydew;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    position: relative;
+}
+
+.right-img {
+    height: 22rem;
+    width: 22rem;
+    position: absolute;
+    top: -11;
+    left: -11rem;
+}
+
+.contact-form {
+    padding: 5rem;
+    width: 100%;
+}
+
+.form {
+    width: 100%;
+    text-align: center;
+    padding: 3rem 0;
+}
+
+.form-group {
+    position: relative;
+    padding: 2rem;
+    width: 100%;
+}
+
+.contact-heading {
+    font-size: 6rem;
+    color: #224004;
+}
+
+.contact-btn:visited,
+.contact-btn:link {
+    text-decoration: none;
+    display: inline-block;
+    border: 1px solid #224004;
+    background-color: transparent;
+    color: #224004;
+    outline: none;
+    font-size: 3.4rem;
+    border-radius: 10px;
+    margin-top: 2rem;
+    padding: 1rem 2rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, .4);
+    transition: all 0.4s ease;
+}
+
+.contact-btn:hover {
+    background-color: #224004;
+    box-shadow: 0 .3rem 1rem rgba(0, 0, 0, .4);
+    color: honeydew;
+}
+
+.input {
+    width: 98%;
+    outline: none;
+    border: 5px solid #224004;
+    background-color: #fff;
+    height: 7rem;
+    font-size: 2rem;
+    border-radius: 1000px;
+    text-indent: 5px;
+    box-shadow: 0 01rem rgba(0, 0, 0, .4);
+    padding: 1rem;
+    transition: all .4s ease;
+}
+
+.input:focus {
+    width: 100%;
+}
+
+.input:valid {
+    border-left: 10px solid goldenrod;
+}
+
+.input:invalid {
+    border-left: 10px solid rgba(255, 0, 0, 0.514);
+}
+
+.textarea {
+    resize: none;
+    height: 15rem;
+    border-radius: 40px;
+    padding: 2rem;
+}
+
+.form-group label {
+    position: absolute;
+    top: 46px;
+    left: 61px;
+    font-size: 1.4rem;
+    background-color: white;
+    visibility: hidden;
+    transition: top .4s ease, left .4s ease;
+}
+
+.input:focus~label {
+    top: 11px;
+    left: 61px;
+    padding: 0 1rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, .4);
+    visibility: hidden;
+    border-radius: 10px;
+    visibility: visible;
+    border-radius: 10px;
+}
+
+.input:focus::placeholder {
+    color: transparent;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: space-evenly;
+}
+
+.maps-title {
+    font-size: 5rem;
+    color: honeydew;
+    text-align: center;
+    margin: 3rem;
+}
+
+.review {
+    padding: 10rem;
+    width: 100%;
+    background-color: #224004;
+}
+
+.review-heading {
+    color: honeydew;
+    font-size: 7rem;
+    text-align: center;
+    margin-bottom: 5rem;
+    position: relative;
+}
+
+.review-content {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+}
+
+.review1 {
+    display: flex;
+    position: relative;
+    align-items: center;
+    color: honeydew;
+    padding: 4rem;
+    box-shadow: 0 .3rem 1rem rgba(0, 0, 0, .4);
+}
+
+.review1:not(:last-child) {
+    margin-bottom: 5rem;
+}
+
+.review-logo {
+    height: 15rem;
+    border-radius: 50%;
+    background-image: url(/image/logo-review.jpg);
+    background-size: cover;
+    min-width: 15rem;
+}
+
+.review-info {
+    margin-left: 2rem;
+    min-width: 16rem;
+}
+
+.info-user {
+    font-size: 3rem;
+    margin: .6rem 0;
+}
+
+.review-box {
+    font-size: 1.6rem;
+    margin-left: 10rem;
+}
+
+.review-star .fa {
+    color: honeydew;
+}
+
+.review-star .checked {
+    color: goldenrod;
+}
+
+.review-text {
+    font-size: 4rem;
+}
+
+.review-star {
+    margin-bottom: 2rem;
+}
