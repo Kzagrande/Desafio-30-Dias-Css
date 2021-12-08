@@ -36,7 +36,9 @@ O projeto deve ser concluído até 23:59
 
 ※ [Dia5 - Glassmorphism Cards](#id05)
 
-※ [Dia5 - Burgreen](#id06)
+※ [Dia6 - Burgreen](#id06)
+
+※ [Dia7 - Menu Suspenso](#id07)
 
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
@@ -154,5 +156,25 @@ O projeto deve ser concluído até 23:59
 * Display grid
 * Animar objetos com a pseudo-classe hover 
 * Aprofundamento em pseudo-classes
+* Layout responsivo
+
+##  Desafio dia 07 - Menu Suspenso <a name="id07"></a>
+![2021-12-08-14-12-34](https://user-images.githubusercontent.com/91704291/145255196-08a11e30-1021-4d7b-a425-91e3bc3509d2.gif)
+
+
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_7)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6874404326371078144-XNyU)
+
+##### O que eu aprendi ?
+
+
+* Animações com JavaScript
+* Pseudo classe ::Before
+* Display grid
+* funções com JavaScript
+* Display flex
 * Layout responsivo
 
