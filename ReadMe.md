@@ -40,6 +40,8 @@ O projeto deve ser concluído até 23:59
 
 ※ [Dia7 - Menu Suspenso](#id07)
 
+※ [Dia7 - Colorful Rain](#id08)
+
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
 
@@ -177,4 +179,23 @@ O projeto deve ser concluído até 23:59
 * funções com JavaScript
 * Display flex
 * Layout responsivo
+
+##  Desafio dia 08 - Colorful Rain <a name="id08"></a>
+![2021-12-15 15-52-05](https://user-images.githubusercontent.com/91704291/146248477-ae0a092a-1d9e-45f0-81f0-f6f819a85e74.gif)
+
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_8)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6876959844931264512-bHwA)
+
+##### O que eu aprendi ?
+
+
+* Animações com JavaScript
+* Contas matemáticas com CSS
+* Contas e variáveis com Js
+* Animação com CSS
+
+
 
