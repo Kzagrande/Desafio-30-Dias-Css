@@ -40,7 +40,9 @@ O projeto deve ser concluído até 23:59
 
 ※ [Dia7 - Menu Suspenso](#id07)
 
-※ [Dia7 - Colorful Rain](#id08)
+※ [Dia8 - Colorful Rain](#id08)
+
+※ [Dia9 - Responsive My Skills Section](#id09)
 
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
@@ -196,6 +198,24 @@ O projeto deve ser concluído até 23:59
 * Contas matemáticas com CSS
 * Contas e variáveis com Js
 * Animação com CSS
+
+##  Desafio dia 09 - Responsive my skills <a name="id09"></a>
+![2022-01-04 11-28-29](https://user-images.githubusercontent.com/91704291/148076582-6b71ea4b-3298-45f5-afcf-9d7f32019ee0.gif)
+
+
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_9)
+
+
+[PostLinkdin](https://www.linkedin.com/feed/update/urn:li:activity:6884142925626798080/)
+
+##### O que eu aprendi ?
+
+
+* Animações com CSS
+* Utilização do @media para deixar o site responsivo
+* Display grid e Flex
+* Pseudo classes
 
 
 
