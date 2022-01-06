@@ -44,6 +44,8 @@ O projeto deve ser concluído até 23:59
 
 ※ [Dia9 - Responsive My Skills Section](#id09)
 
+※ [Dia10 - Image Slider](#id10)
+
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
 
@@ -216,6 +218,30 @@ O projeto deve ser concluído até 23:59
 * Utilização do @media para deixar o site responsivo
 * Display grid e Flex
 * Pseudo classes
+
+
+##  Desafio dia 10 - Image Slider<a name="id10"></a>
+https://user-images.githubusercontent.com/91704291/148458038-bd511631-b1db-4801-8a51-cc8250d76217.mp4
+
+
+
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_10)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6884974674774634497-bWTf)
+
+##### O que eu aprendi ?
+
+
+* Animações com CSS
+* Utilização do @Keyframes
+* Transform Translate
+* Animation-delay
+
+
+
+
 
 
 
