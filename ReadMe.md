@@ -46,6 +46,8 @@ O projeto deve ser concluído até 23:59
 
 ※ [Dia10 - Image Slider](#id10)
 
+※ [Dia11 - Calculator](#id11)
+
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
 
@@ -238,6 +240,31 @@ https://user-images.githubusercontent.com/91704291/148458038-bd511631-b1db-4801-
 * Utilização do @Keyframes
 * Transform Translate
 * Animation-delay
+
+
+
+##  Desafio dia 11 - Calculator <a name="id11"></a>
+
+https://user-images.githubusercontent.com/91704291/149381788-89e99806-b370-4165-9767-c0efb8cd0a73.mp4
+
+
+
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_11)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6887451582368120832-_Rm-)
+
+##### O que eu aprendi ?
+
+
+* Animações com Js
+* Utilização da função Eval para fazer a lógica da calculadora 
+* Classlist.toggle em Js
+* Conceitos básicos de ForEach
+* Lógica de programação com Js
+* link para ícones no Html
+
 
 
 
