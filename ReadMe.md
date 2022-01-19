@@ -48,7 +48,7 @@ O projeto deve ser concluído até 23:59
 
 ※ [Dia11 - Calculator](#id11)
 
-※ [Dia11 - Calculator](#id12)
+※ [Dia12 - Figma Copy](#id12)
 
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
