@@ -48,6 +48,8 @@ O projeto deve ser concluído até 23:59
 
 ※ [Dia11 - Calculator](#id11)
 
+※ [Dia11 - Calculator](#id12)
+
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
 
@@ -265,6 +267,28 @@ https://user-images.githubusercontent.com/91704291/149381788-89e99806-b370-4165-
 * Lógica de programação com Js
 * link para ícones no Html
 
+
+##  Desafio dia 12 - Figma Copy <a name="id12"></a>
+
+https://user-images.githubusercontent.com/91704291/149381788-89e99806-b370-4165-9767-c0efb8cd0a73.mp4
+
+
+
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_12)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6889597709288775682-SfiL)
+
+##### O que eu aprendi ?
+
+
+* Utilização de Fontawesome
+* Display Flex e Grid
+* Adiconar fonts diferentes com @ FontFace
+* Layout responsivo com @Media and screen
+* Formatando e editando imagens no Photoshop
+* Fazendo projetos baseados no Figma
 
 
 
