@@ -270,7 +270,8 @@ https://user-images.githubusercontent.com/91704291/149381788-89e99806-b370-4165-
 
 ##  Desafio dia 12 - Figma Copy <a name="id12"></a>
 
-https://user-images.githubusercontent.com/91704291/149381788-89e99806-b370-4165-9767-c0efb8cd0a73.mp4
+https://user-images.githubusercontent.com/91704291/150169315-70af08d7-af96-49c9-bd24-b1d4179d6094.mp4
+
 
 
 
