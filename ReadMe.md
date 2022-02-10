@@ -50,6 +50,8 @@ O projeto deve ser concluído até 23:59
 
 ※ [Dia12 - Figma Copy](#id12)
 
+※ [Dia13 - Weather App](#id13)
+
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
 
@@ -290,6 +292,31 @@ https://user-images.githubusercontent.com/91704291/150169315-70af08d7-af96-49c9-
 * Layout responsivo com @Media and screen
 * Formatando e editando imagens no Photoshop
 * Fazendo projetos baseados no Figma
+
+
+##  Desafio dia 13 - Weather app <a name="id13"></a>
+
+https://user-images.githubusercontent.com/91704291/153460376-163f542e-0e84-4f91-a728-771e8e7a664c.mp4
+
+
+
+
+
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_13)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_github-html-css-activity-6897587126725398528-67k7)
+
+##### O que eu aprendi ?
+
+
+* Utilização da convenção BEM do Css
+* Efeito Glassmorphism no css
+* JavaScript para animar a página
+* Consumo de API 
+* Utilização de objetos e JSON
+
 
 
 

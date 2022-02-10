@@ -21,7 +21,7 @@ let weather  = {
         document.querySelector(".card__description").textContent = description;
         document.querySelector(".card__temp").textContent = Number(temp).toFixed(.5) + " ºC ";
         document.querySelector(".card__humidity").textContent = " Humidity "+ humidity + " % ";
-        document.querySelector(".card__whind").textContent = "Whind "+ speed + " km/h ";
+        document.querySelector(".card__whind").textContent = "Wind "+ speed + " km/h ";
         document.querySelector(".card__weather").classList.remove("card__loading");
 
     
@@ -49,3 +49,5 @@ document
 });
 
 weather.fetchWeather("Guarulhos");
+
+
