@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Yantramanav', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+   
+
+}
+
+.list{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.containerLi li{
+    list-style: none;
+    text-align: center;
+    color: #333;
+    font-size: 3em;
+    font-weight: 700;
+    cursor: pointer;
+    transition:0.5s;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+
+
+.list:hover li{
+    color: transparent;
+
+}
+
+.list li:hover{
+    color: #333;
+    background: #fff;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.75) ;
+}
+
+.list li:before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background: #f00;
+    width: 100vw;
+    height: 100vh;
+    transform: translate(-50%,-50%);
+    z-index: -1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: 0.5s;
+    color: rgba(0, 0, 0, 0.05);
+    font-size: 18vh;
+    letter-spacing: 100px;
+
+
+}
+
+.list li:hover::before{
+    content: attr(data-text);
+    opacity: 1;
+    letter-spacing: 10px;
+    
+}
+
+.list li:nth-child(1)::before{
+    background: linear-gradient(#005bbc  0%,#005bbc  33%, #fff 33%, #fff 66%,
+    #ffd600   66%, #ffd600  100% )
+}
+
+.list li:nth-child(2)::before{
+    background: linear-gradient(#fff 0%,#fff  33%, #fff 33%, #fff 66%,
+    #fff  66%, #fff 100% );
+    font-size: 1em;
+    letter-spacing: normal;
+    color: black;
+    position: absolute;
+ 
+}
+
+#transparent:hover{
+    color: transparent;
+    background: transparent;
+    border:none;
+    box-shadow: none;
+    transition: 2s ease-in;
+    transform: scale(.75);
+   
+   
+}
+
+.list li:nth-child(3)::before{
+    background: linear-gradient(#fff 0%,#fff 33%, #005bbc 33%, #005bbc 66%,
+     #d52b1e 66%, #d52b1e 100% );
+}
+

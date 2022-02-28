@@ -52,6 +52,8 @@ O projeto deve ser concluído até 23:59
 
 ※ [Dia13 - Weather App](#id13)
 
+※ [Dia14- Peace between us](#id14)
+
 ##  Desafio dia 01 - Glowing Text Animation <a name="id01"></a>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91704291/140432943-3e7644f6-5940-4899-a6c0-9e2d7786b717.gif)
 
@@ -300,9 +302,6 @@ https://user-images.githubusercontent.com/91704291/153460376-163f542e-0e84-4f91-
 
 
 
-
-
-
 [Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_13)
 
 
@@ -317,6 +316,28 @@ https://user-images.githubusercontent.com/91704291/153460376-163f542e-0e84-4f91-
 * Consumo de API 
 * Utilização de objetos e JSON
 
+
+
+
+##  Desafio dia 13 - Weather app <a name="id14"></a>
+
+https://user-images.githubusercontent.com/91704291/156021591-79a4f7d8-2c33-4959-a961-5ace1526700a.mp4
+
+
+
+[Meu codigo](https://github.com/Kzagrande/Desafio-30-Dias-Css/tree/main/Desafios/Desafio_14)
+
+
+[PostLinkdin](https://www.linkedin.com/posts/yan-bortoleto_css-html-peaceforukraine-activity-6904104017061101569-4Aeu)
+
+##### O que eu aprendi ?
+
+
+* Display flex e flexbox
+* Animação com css
+* Pseudoclasses
+* Data-text
+* Nth-child
 
 
 
